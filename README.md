@@ -61,9 +61,4 @@ The core of the model is an LSTM-based neural network with the following structu
 ## Conclusion
 This project demonstrates the application of LSTM-based models to sentiment analysis of tweets. The model achieves strong performance but could be further improved by addressing noisy data and incorporating more advanced models like Transformers.
 
----
 
-### How to Run
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
